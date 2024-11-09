@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Flacis!
-- 👀 I’m interested in Cybersecurity, and C#
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in Cybersecurity, C#, And Python
+- 🌱 I’m currently learning Python
 - 💞️ I love Coding
-- 📫 You can reach me through Discord my user id is: 1298761242894139404
+- 📫 You can reach me through Discord my username is: flacis.lol
 - ⚡ Fun fact: I exploit in gtag
 
 <!---
