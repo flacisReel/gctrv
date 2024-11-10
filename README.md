@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python
 - 💞️ I love Coding
 - 📫 You can reach me through Discord my username is: flacis.lol
-- ⚡ Fun fact: I exploit in gtag
 
 <!---
 gctrv/gctrv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
